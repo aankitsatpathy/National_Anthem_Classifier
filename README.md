@@ -44,5 +44,3 @@ This project classifies national anthems into clusters based on their linguistic
 - Required libraries (install via pip):
   ```bash
   pip install pandas numpy nltk scikit-learn geopandas matplotlib
-
----
